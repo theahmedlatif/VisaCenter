@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/framework-Laravel-red" alt="Framework">
+<img src="https://img.shields.io/badge/framework-Laravel%207.0-red" alt="Framework">
 <img src="https://img.shields.io/badge/license-MIT-yellowgreen" alt="Framework">
 <img src="https://img.shields.io/github/issues/ALatif8/VisaCenter" alt="issues">
 <img src="https://img.shields.io/github/forks/ALatif8/VisaCenter" alt="Forks">
@@ -15,7 +15,7 @@
 This Application is demonstration for managing visa center applicants, in terms of receiving passports and managing visa status (received, pending, rejected or approved).
 
 Routes and functions within this application are accessible based on user roles.
-
+...
 
 ### Roles
 
@@ -24,6 +24,7 @@ Routes and functions within this application are accessible based on user roles.
 3. **Approval Center**: this role can change passport status to ***pending***, ***approved*** or ***rejected*** with comment for status.
 4. **Dispatcher**: this role can assign passports to users from approval center and view dashboard.
 5. **Admin**: this role can access all functionalities in addition to managing users roles.
+...
 
 ### Functions
 
@@ -34,7 +35,26 @@ Routes and functions within this application are accessible based on user roles.
 5. **My History**: a user with approval center role can find the passports approved or rejected by him in this view.
 6. **Passports Dashboard**: a user with dispatcher role can view dashboard for some figures of today and last 30 days.
 7. **Manage Users Roles**: a user with admin role can manage roles of other users.
+...
+----
+## Installation
+Navigate to the location where you want to clone this repository:
+```bash
+cd /your_local_directory
+```
 
+Clone Visa Center Repository:
+```bash
+git clone https://github.com/ALatif8/VisaCenter.git
+```
+
+Install using composer:
+```bash
+composer install
+```
+...
+----
 ## License
 
 Visa Center is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+...
