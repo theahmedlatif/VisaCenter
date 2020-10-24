@@ -11,21 +11,21 @@
 </p>
 
 # Visa Center
-...
+
 This Application is demonstration for managing visa center applicants, in terms of receiving passports and managing visa status (received, pending, rejected or approved).
 
 Routes and functions within this application are accessible based on user roles.
 
-### Roles
-...
+## Roles
+
 1. **Dummy**: the default role assigned to a new user, user having this role cannot perform any action.
 2. **Front Office**: this role is used to ***receive*** passports from applicants.
 3. **Approval Center**: this role can change passport status to ***pending***, ***approved*** or ***rejected*** with comment for status.
 4. **Dispatcher**: this role can assign passports to users from approval center and view dashboard.
 5. **Admin**: this role can access all functionalities in addition to managing users roles.
 
-### Functions
-...
+## Functions
+ 
 1. **Receive Passport**: a user with the required role can receive a passport from an applicant.
 2. **Update Passport Status**: a user with the required role can change passport status from ***received*** to the needed status (***pending***, ***rejected*** or ***approved***) according to the business scenario.
 3. **Query**: a user with the required role can query for passports using "received date from" and " received date to" as mandatory fields, in addition to "received by, status and handled by" as optional fields.
@@ -36,7 +36,7 @@ Routes and functions within this application are accessible based on user roles.
  
 ---
 ## Installation
-...
+ 
 Navigate to the location where you want to clone this repository:
 ```bash
 cd /your_local_directory
