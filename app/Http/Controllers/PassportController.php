@@ -236,11 +236,11 @@ class PassportController extends Controller
     public function myPassports()
     {
         $passports = Passport::with('created_by')->with('status')->with('handled_by')
-            ->where('owner_id',Auth::user()->id)
-            ->where('status_id','=<',2)
+            ->where('owner_id','=',Auth::user()->id)
+            ->where('status_id','<',3)
             ->get();
 
-        return view('staff.passqueryoutput')->with('passports',$passports);
+        return view('staff.mypassports')->with('passports',$passports);
     }
 
     /**
@@ -252,10 +252,10 @@ class PassportController extends Controller
     {
         $passports = Passport::with('created_by')->with('status')->with('handled_by')
             ->where('owner_id',Auth::user()->id)
-            ->where('status_id','>=',3)
+            ->where('status_id','>',2)
             ->get();
 
-        return view('staff.passqueryoutput')->with('passports',$passports);
+        return view('staff.myhandledpassports')->with('passports',$passports);
     }
 
     public function figuresDashboard()

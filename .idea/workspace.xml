@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6c10545-1e80-494d-855e-c6ec6c330e13" name="Default Changelist" comment="" />
+    <list default="true" id="d6c10545-1e80-494d-855e-c6ec6c330e13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PassportController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PassportController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/internalApp.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/internalApp.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/staff/myhandledpassports.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/staff/myhandledpassports.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/staff/mypassports.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/staff/mypassports.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +41,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -126,6 +153,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hW8lbrTzwrVE6CCVf2QUd5Rxcg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -195,11 +223,23 @@
       <workItem from="1603311768072" duration="3658000" />
       <workItem from="1603387280305" duration="21056000" />
       <workItem from="1603526696303" duration="17528000" />
+      <workItem from="1603564967327" duration="3668000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="0" key="#PHP" timestamp="1600372562036">

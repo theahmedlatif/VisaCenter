@@ -17,8 +17,8 @@
 
 @section('internalAppContent')
     <div class="container">
-        <div class="row">
-            <table class="table table-hover table-responsive text-nowrap">
+        <div class="col-12">
+            <table class="table table-hover table-responsive table-sm">
                 <thead class="thead-dark">
                 <tr>
                     <th scope="col">Serial</th>
