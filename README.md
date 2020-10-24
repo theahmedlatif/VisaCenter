@@ -6,11 +6,13 @@
 <img src="https://img.shields.io/badge/framework-Laravel-red" alt="Framework">
 <img src="https://img.shields.io/badge/license-MIT-yellowgreen" alt="Framework">
 <img src="https://img.shields.io/github/issues/ALatif8/VisaCenter" alt="issues">
+<img src="https://img.shields.io/github/forks/ALatif8/VisaCenter" alt="Forks">
+<img src="https://img.shields.io/github/stars/ALatif8/VisaCenter" alt="Forks">  
 </p>
 
 # Visa Center
 
-This Application is demonstration for managing visa center applicants, in terms of receiving passports and managing visa status (received, pending, rejected or approved) 
+This Application is demonstration for managing visa center applicants, in terms of receiving passports and managing visa status (received, pending, rejected or approved).
 
 Routes and functions within this application are accessible based on user roles.
 
