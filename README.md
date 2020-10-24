@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/framework-Laravel-red" alt="License">
+<img src="https://img.shields.io/badge/framework-Laravel-red" alt="Framework">
+<img src="https://img.shields.io/github/issues/ALatif8/VisaCenter" alt="issues">
 </p>
 
 # Visa Center
