@@ -4,6 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/framework-Laravel-red" alt="Framework">
+<img src="https://img.shields.io/badge/license-MIT-yellowgreen" alt="Framework">
 <img src="https://img.shields.io/github/issues/ALatif8/VisaCenter" alt="issues">
 </p>
 
