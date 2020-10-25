@@ -34,6 +34,10 @@ Routes and functions within this application are accessible based on user roles.
 6. **Passports Dashboard**: a user with dispatcher role can view dashboard for some figures of today and last 30 days.
 7. **Manage Users Roles**: a user with admin role can manage roles of other users.
  
+## Additional Features
+1. **Logs**: changes related to passport actions (assign passport from user to another, change passport status and adding comments) are logged and available to view historical changes. 
+2. **Status Control**: status cannot be changed if it was rejected or approved (those are final status unlike received and pending). 
+
 ---
 ## Installation
  
