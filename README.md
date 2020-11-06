@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/license-MIT-yellowgreen" alt="Framework">
 <img src="https://img.shields.io/github/issues/ALatif8/VisaCenter" alt="issues">
 <img src="https://img.shields.io/github/forks/ALatif8/VisaCenter" alt="Forks">
-<img src="https://img.shields.io/github/stars/ALatif8/VisaCenter" alt="Forks">  
+<img src="https://img.shields.io/github/stars/ALatif8/VisaCenter" alt="Stars">  
 </p>
 
 # Visa Center
@@ -15,6 +15,8 @@
 This Application is demonstration for managing visa center applicants, in terms of receiving passports and managing visa status (received, pending, rejected or approved).
 
 Routes and functions within this application are accessible based on user roles.
+
+Hosted on AWS: http://ec2-3-134-86-103.us-east-2.compute.amazonaws.com/
 
 ## Roles
 
