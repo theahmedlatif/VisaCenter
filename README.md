@@ -17,10 +17,7 @@ This Application is demonstration for managing visa center applicants, in terms 
 Routes and functions within this application are accessible based on user roles.
 
 Hosted on AWS: http://ec2-3-134-86-103.us-east-2.compute.amazonaws.com/
-For testing purposes:
-Test user: tadmin@test.com
-Password: Public@12345
-Role: Admin
+
 
 ## Roles
 
